@@ -9734,7 +9734,7 @@ maude1: 3/3 (100.00%)
 maudeau: 55/55 (100.00%)
 * MAUDE_ x55
 
-mc_play: 2884/3340 (86.35%)
+mc_play: 2916/3340 (87.31%)
 * 420_ x11
 * ACA_ x1
 * AGREN_ x3
@@ -9774,7 +9774,7 @@ mc_play: 2884/3340 (86.35%)
 * CBR6_ x50
 * CCMG_ x42
 * CCTV_ x3
-* CCTVW_ x7
+* CCTVW_ x10
 * CF_ x1
 * CHI_ x6
 * CHM1_ x8
@@ -9851,14 +9851,14 @@ mc_play: 2884/3340 (86.35%)
 * JOYRD_ x1
 * KEYP_ x1
 * KH_ x3
-* KH1S_ x31
-* KH2S_ x31
+* KH1S_ x40
+* KH2S_ x41
 * KH3A_ x1
 * KH3K_ x2
-* KH3S_ x20
+* KH3S_ x22
 * KH4S_ x6
 * KHGA_ x7
-* KHGB_ x25
+* KHGB_ x33
 * KHGC_ x16
 * KRKNS_ x4
 * KW_ x7
